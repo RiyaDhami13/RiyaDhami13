@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Riya Dhami
+# 🏛️ Riya Dhami
+
+*“Turning data into insight and engineering into impact.”*
+
 ### Data Science | Engineering | Robotics
 I am a dedicated student and technologist focused on the intersection of data-driven insights and physical systems. I enjoy solving complex problems through code and building impactful projects.
 
