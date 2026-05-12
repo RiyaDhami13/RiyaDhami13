@@ -24,7 +24,19 @@ I am a dedicated student and technologist focused on the intersection of data-dr
 
  Portfolio: GitHub Profile
 
---------
+---------
+
+📊 Activity Stats
+“Turning data into information, and information into insight.”
+
+
+### 💡 Pro-Tips for Customizing:
+*   **The Theme:** In the stats links, I set the theme to `dracula`. You can change that word to `dark`, `radical`, or `tokyonight` depending on what matches your favorite look.
+*   **Project Link:** Make sure to replace `<your-repo-name>` in the bash section with the actual name of your repository once you create it.
+*   **Fonts:** GitHub uses a standard font, so the best way to get "style" is through the bold headers and the clean tables provided above.
+
+-------------------------
+
 ```bash
 # Quick Start
 git clone [https://github.com/RiyaDhami13/](https://github.com/RiyaDhami13/)<your-repo-name>
