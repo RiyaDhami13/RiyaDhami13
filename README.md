@@ -1,30 +1,34 @@
-# Learn for learn
-- 👋 Hi, I’m @RiyaDhami13
-- 👀 I’m interested in data science, eng and robotics....
-- 🌱 I’m currently learning data science and big data...
-- 💞️ I’m looking to collaborate on the projects ...
-- 📫 How to reach me https:https://www.linkedin.com/in/riya-dhami-3153742a3/
+# 👋 Hello, I'm Riya Dhami
+### Data Science | Engineering | Robotics
+I am a dedicated student and technologist focused on the intersection of data-driven insights and physical systems. I enjoy solving complex problems through code and building impactful projects.
 
-## Requirements
-- Python 3.7+
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
+-------
+### 🛠️Technological Toolbox
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | Python, C, SQL |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Frameworks** | Big Data Analytics, Git/GitHub |
+| **Hardware** | Robotics, Circuit Design, Electrical Engineering |
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd <project_directory>
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the script:
-   ```bash
-   python eda_script.py
-   ```
-5. Provide the dataset path when prompted.
+--------
+### 🌱 Current Focus
+*   🔭 **Learning:** Data Science and Big Data architectures.
+*   ⚡ **Exploring:** Robotics and the automation of engineering systems.
+*   💬 **Collaborating:** Interested in open-source projects and data-driven research.
+
+
+---------------
+📫 Let's Connect!
+ LinkedIn: Riya Dhami
+
+ Portfolio: GitHub Profile
+
+--------
+```bash
+# Quick Start
+git clone [https://github.com/RiyaDhami13/](https://github.com/RiyaDhami13/)<your-repo-name>
+cd <project_directory>
+pip install -r requirements.txt
+python eda_script.py
 
